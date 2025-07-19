@@ -76,7 +76,7 @@ The application features a clean, intuitive interface with both light and dark t
 <div align="center">
   
 ### Welcome & HomePage
-<img src="screenshots/Welcome.png" alt="Welcome Page" width="250"/> <img src="screenshots/Homepage.png" alt="HomePage" width="250"/>
+<img src="screenshots/Welcome.png" alt="Welcome Page" width="250"/> <img src="screenshots/HomePage.png" alt="HomePage" width="250"/>
 
 ### Search & Bus Tracking  
 <img src="screenshots/SearchBus.png" alt="Search Bus" width="250"/> <img src="screenshots/RecentBus.png" alt="Recent Bus" width="250"/>
