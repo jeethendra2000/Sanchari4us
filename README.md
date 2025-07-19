@@ -73,47 +73,30 @@ The application features a clean, intuitive interface with both light and dark t
 
 ## 📸 Screenshots
 
-### Welcome Page
-![Welcome Page](screenshots/Welcome.png)
+<div align="center">
+  
+### Welcome & HomePage
+<img src="screenshots/Welcome.png" alt="Welcome Page" width="250"/> <img src="screenshots/Homepage.png" alt="HomePage" width="250"/>
 
-### HomePage
-![HomePage](screenshots/Homepage.png)
+### Search & Bus Tracking  
+<img src="screenshots/SearchBus.png" alt="Search Bus" width="250"/> <img src="screenshots/RecentBus.png" alt="Recent Bus" width="250"/>
 
-### Search Bus
-![App Demo](screenshots/SearchBus.png)
+### Maps & Route Tracking
+<img src="screenshots/MapRoute.png" alt="Maps Route" width="250"/> <img src="screenshots/TrackBus.png" alt="Track Bus" width="250"/>
 
-### Recent Bus
-![Recent Bus](screenshots/RecentBus.png)
+### Authentication & Feedback
+<img src="screenshots/Login.png" alt="Login Screen" width="250"/> <img src="screenshots/Feedback.png" alt="Feedback" width="250"/>
 
-### Maps Integration
-![Maps View](screenshots/MapRoute.png)
-*Google Maps integration with route tracking*
+### User Profile (Light & Dark)
+<img src="screenshots/Profile-Light.png" alt="Profile Light" width="250"/> <img src="screenshots/Profile-Dark.png" alt="Profile Dark" width="250"/>
 
-### Track Bus
-![Track Bus](screenshots/TrackBus.png)
+### Admin & Team
+<img src="screenshots/AdminArea.png" alt="Admin Area" width="250"/> <img src="screenshots/OurTeam.png" alt="Our Team" width="250"/>
 
-### Authentication
-![Login Screen](screenshots/Login.png)
-*Firebase-powered authentication system*
+### Notifications
+<img src="screenshots/Notifications.png" alt="Notifications" width="250"/>
 
-### Feedback
-![Feedback](screenshots/Feedback.png)
-
-### User Dashboard
-![Dashboard](screenshots/Notifications.png)
-*User dashboard with bookmarks and notifications*
-
-### Profile-Light
-![Profile-Light](screenshots/Profile-Light.png)
-
-### Profile-Dark
-![Profile-Dark](screenshots/Profile-Dark.png)
-
-### Admin Area
-![Admin Area](screenshots/AdminArea.png)
-
-### Our Team
-![Our Team](screenshots/OurTeam.png)
+</div>
 
 ### Adding Screenshots
 To add screenshots to your fork:
